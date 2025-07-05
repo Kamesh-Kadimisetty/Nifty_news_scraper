@@ -24,7 +24,7 @@ It collects news headlines, sources, publication dates, and the related stock sy
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nifty-news-scraper.git
+git clone https://github.com/Kamesh-Kadimisetty/nifty-news-scraper.git
 cd nifty-news-scraper
 ```
 
